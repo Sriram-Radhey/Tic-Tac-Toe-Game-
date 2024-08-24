@@ -1,5 +1,5 @@
                                             Designed the Game Tic-Tac-Toe Game
-=>The Game Basically Developed with Html,CSS and JavaScript. With a decent Css and Html I have designed the game Part.
+=>The Game Basically Developed with Html,CSS and JavaScript. With a decent Css and Html I have designed the game Part.<br/>
 =>The Game Rules are simple. There are two players 'O' and 'X'. They follow the below Order to win the game:-
 
 1.If One of the Player completes the pattern Diagonal any of the two then he wins.<br/>
