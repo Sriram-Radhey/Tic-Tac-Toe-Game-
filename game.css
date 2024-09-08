@@ -15,16 +15,8 @@
   align-items: center;
   margin-top: 5rem;
  }
- .main-class h1{
-  border-width: 1rem;
-  border-color: violet;
- }
  .main-class h1:hover{
-  font-size: 38px;
-  color: aqua;
-  border-style: double;
-  margin-left: 28rem;
-  margin-right: 28rem;
+  color: rgb(27, 235, 235);
  }
   .container {
     height: 70vh;
@@ -51,8 +43,8 @@
     border:3rem;
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
     font-size: 8vmin;
-    color: #b0413e;
-    background-color: #d8d514;
+    color: #db0e07;
+    background-color: rgb(27, 237, 237);
   }
   
   #reset-btn {
@@ -65,7 +57,7 @@
   }
 
   #reset-btn:hover{
-    font-size: xx-large;
+    font-size: x-large;
     color: greenyellow;
   }
   #new-btn {
